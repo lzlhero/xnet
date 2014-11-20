@@ -1,4 +1,4 @@
-# xNet 接口规则
+# xNet 接口规范
 
 本文定义了一个标准的 Web 前后端 Ajax JSON 接口规范，并提供了基于 jQuery 的前端实现与 PHP 后端实现。
 
